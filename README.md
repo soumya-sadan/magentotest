@@ -1,18 +1,6 @@
 ******* Magento Test Automation Framework *****
 This repository contains automated functional tests for Magento Test Site. The tests are designed to run in Chrome (minimum requirement) and Firefox (additional browser).
 
-Project Structure: 
-magentocodetest/
-│── src/
-│   ├── main/ (Framework core files)
-│   ├── test/ (Test scripts)
-│   ├── resources/ (Test data & configurations)
-│── pom.xml (Maven dependencies)
-│── testng.xml (Test execution config)
-│── README.md (Project documentation)
-│── .gitignore (Ignored files)
-
-
 Prerequisites:
 Java 11 or later
 Maven
