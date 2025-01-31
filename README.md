@@ -1,4 +1,5 @@
 ******* Magento Test Automation Framework *****
+
 This repository contains automated functional tests for Magento Test Site. The tests are designed to run in Chrome (minimum requirement) and Firefox (additional browser).
 
 Prerequisites:
