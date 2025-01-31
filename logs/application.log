@@ -1,0 +1,182 @@
+2025-01-31 17:47:07,156 DEBUG org.testng.log4testng.Logger [main] suiteXmlPath: "C:\Users\Soumya\eclipse-workspace\magentocodetest\src\test\resources\testrunner\testng_regression.xml"
+2025-01-31 17:47:07,647 INFO org.testng.log4testng.Logger [main] [TestRunner] Running the tests in 'Login Page Test' with parallel mode:none
+2025-01-31 17:47:07,648 INFO org.testng.log4testng.Logger [main] [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@6d91790b priority: 10
+2025-01-31 17:47:07,667 INFO org.testng.log4testng.Logger [main] [TestClass] Creating TestClass for [ClassImpl class=com.qa.softwaretestingboard.tests.LoginPageTest]
+2025-01-31 17:47:07,678 INFO org.testng.log4testng.Logger [main] [TestClass] Adding method LoginPageTest.loginPageTitleTest()[pri:0, instance:null] on TestClass class com.qa.softwaretestingboard.tests.LoginPageTest
+2025-01-31 17:47:07,686 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,688 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-31 17:47:07,690 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,690 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,696 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.base.setup()
+2025-01-31 17:47:07,696 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-01-31 17:47:07,705 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-01-31 17:47:07,706 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.base.tearDown()
+2025-01-31 17:47:07,706 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,706 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,707 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,707 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,708 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,708 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,708 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,709 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-31 17:47:07,709 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,709 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,711 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,711 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,712 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,712 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,714 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,714 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,715 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-31 17:47:07,716 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,717 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.tests.loginPageTitleTest()
+2025-01-31 17:47:07,717 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,717 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,719 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-31 17:47:07,719 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,719 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,719 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,726 INFO org.testng.log4testng.Logger [main] [TestRunner] Running the tests in 'Register Page Test - chrome' with parallel mode:none
+2025-01-31 17:47:07,726 INFO org.testng.log4testng.Logger [main] [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@2b4c3c29 priority: 10
+2025-01-31 17:47:07,735 INFO org.testng.log4testng.Logger [main] [TestClass] Creating TestClass for [ClassImpl class=com.qa.softwaretestingboard.tests.RegisterPageTest]
+2025-01-31 17:47:07,736 INFO org.testng.log4testng.Logger [main] [TestClass] Adding method RegisterPageTest.verifyRegisterPageNavigationTest()[pri:1, instance:null] on TestClass class com.qa.softwaretestingboard.tests.RegisterPageTest
+2025-01-31 17:47:07,737 INFO org.testng.log4testng.Logger [main] [TestClass] Adding method RegisterPageTest.userRegisterTest(java.lang.String,java.lang.String,java.lang.String)[pri:2147483647, instance:null] on TestClass class com.qa.softwaretestingboard.tests.RegisterPageTest
+2025-01-31 17:47:07,738 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,738 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,739 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,739 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,740 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.base.setup()
+2025-01-31 17:47:07,741 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,741 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,742 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.base.tearDown()
+2025-01-31 17:47:07,743 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,743 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,744 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.tests.regSetup()
+2025-01-31 17:47:07,744 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,745 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-31 17:47:07,745 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,745 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,746 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,746 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,746 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,746 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,747 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,747 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,748 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,748 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,748 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,748 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,749 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,749 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,749 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.tests.verifyRegisterPageNavigationTest()
+2025-01-31 17:47:07,749 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.tests.userRegisterTest()
+2025-01-31 17:47:07,750 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-31 17:47:07,754 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-01-31 17:47:07,754 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,755 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-31 17:47:07,755 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,755 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,756 INFO org.testng.log4testng.Logger [main] [TestRunner] Running the tests in 'Register Page Test - firefox' with parallel mode:none
+2025-01-31 17:47:07,756 INFO org.testng.log4testng.Logger [main] [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@7435a578 priority: 10
+2025-01-31 17:47:07,757 INFO org.testng.log4testng.Logger [main] [TestClass] Creating TestClass for [ClassImpl class=com.qa.softwaretestingboard.tests.RegisterPageTest]
+2025-01-31 17:47:07,757 INFO org.testng.log4testng.Logger [main] [TestClass] Adding method RegisterPageTest.verifyRegisterPageNavigationTest()[pri:1, instance:null] on TestClass class com.qa.softwaretestingboard.tests.RegisterPageTest
+2025-01-31 17:47:07,758 INFO org.testng.log4testng.Logger [main] [TestClass] Adding method RegisterPageTest.userRegisterTest(java.lang.String,java.lang.String,java.lang.String)[pri:2147483647, instance:null] on TestClass class com.qa.softwaretestingboard.tests.RegisterPageTest
+2025-01-31 17:47:07,759 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,759 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,759 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,759 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,760 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.base.setup()
+2025-01-31 17:47:07,760 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,760 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,761 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.base.tearDown()
+2025-01-31 17:47:07,761 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,761 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,762 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.tests.regSetup()
+2025-01-31 17:47:07,762 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,762 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,763 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,763 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,763 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,763 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,763 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,764 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,764 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,764 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,764 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,764 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,764 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,764 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,765 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,765 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,765 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.tests.verifyRegisterPageNavigationTest()
+2025-01-31 17:47:07,765 INFO org.testng.log4testng.Logger [main] [XmlMethodSelector] Including method com.qa.softwaretestingboard.tests.userRegisterTest()
+2025-01-31 17:47:07,765 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,766 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-31 17:47:07,766 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,767 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,767 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-31 17:47:07,767 INFO org.testng.log4testng.Logger [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-31 17:47:07,769 INFO org.testng.log4testng.Logger [main] [TestNG] Running:
+  C:\Users\Soumya\eclipse-workspace\magentocodetest\src\test\resources\testrunner\testng_regression.xml
+
+2025-01-31 17:47:07,775 INFO org.testng.log4testng.Logger [main] [SuiteRunner] Created 3 TestRunners
+2025-01-31 17:47:07,781 INFO org.testng.log4testng.Logger [main] [TestRunner] Running test Login Page Test on 1  classes,  included groups:[] excluded groups:[]
+2025-01-31 17:47:07,782 INFO org.testng.log4testng.Logger [main] ===== Test class
+com.qa.softwaretestingboard.tests.LoginPageTest
+2025-01-31 17:47:07,782 INFO org.testng.log4testng.Logger [main]     @Test LoginPageTest.loginPageTitleTest()[pri:0, instance:com.qa.softwaretestingboard.tests.LoginPageTest@629f066f]
+2025-01-31 17:47:07,782 INFO org.testng.log4testng.Logger [main] ======
+2025-01-31 17:47:07,790 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking @BeforeTest BaseTest.setup(java.lang.String)[pri:0, instance:com.qa.softwaretestingboard.tests.LoginPageTest@629f066f]
+2025-01-31 17:47:13,002 INFO org.testng.log4testng.Logger [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-01-31 17:47:13,040 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking com.qa.softwaretestingboard.tests.LoginPageTest.loginPageTitleTest
+2025-01-31 17:47:17,912 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking @AfterTest BaseTest.tearDown()[pri:0, instance:com.qa.softwaretestingboard.tests.LoginPageTest@629f066f]
+2025-01-31 17:47:22,420 INFO org.testng.log4testng.Logger [main] [[Utils]] Attempting to create C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\Softwaretestingboard App Test Regression Suite\Login Page Test.xml
+2025-01-31 17:47:22,420 INFO org.testng.log4testng.Logger [main] [[Utils]]   Directory C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\Softwaretestingboard App Test Regression Suite exists: true
+2025-01-31 17:47:22,422 INFO org.testng.log4testng.Logger [main] Creating C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\Softwaretestingboard App Test Regression Suite\Login Page Test.xml
+2025-01-31 17:47:22,432 INFO org.testng.log4testng.Logger [main] [TestRunner] Running test Register Page Test - chrome on 1  classes,  included groups:[] excluded groups:[]
+2025-01-31 17:47:22,432 INFO org.testng.log4testng.Logger [main] ===== Test class
+com.qa.softwaretestingboard.tests.RegisterPageTest
+2025-01-31 17:47:22,433 INFO org.testng.log4testng.Logger [main]   @BeforeClass RegisterPageTest.regSetup()[pri:0, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@41c204a0]
+2025-01-31 17:47:22,433 INFO org.testng.log4testng.Logger [main]     @Test RegisterPageTest.verifyRegisterPageNavigationTest()[pri:1, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@41c204a0]
+2025-01-31 17:47:22,433 INFO org.testng.log4testng.Logger [main]     @Test RegisterPageTest.userRegisterTest(java.lang.String,java.lang.String,java.lang.String)[pri:2147483647, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@41c204a0]
+2025-01-31 17:47:22,433 INFO org.testng.log4testng.Logger [main] ======
+2025-01-31 17:47:22,435 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking @BeforeTest BaseTest.setup(java.lang.String)[pri:0, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@41c204a0]
+2025-01-31 17:47:26,513 INFO org.testng.log4testng.Logger [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2025-01-31 17:47:26,514 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking @BeforeClass RegisterPageTest.regSetup()[pri:0, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@41c204a0]
+2025-01-31 17:47:29,143 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking com.qa.softwaretestingboard.tests.RegisterPageTest.verifyRegisterPageNavigationTest
+2025-01-31 17:47:31,675 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking com.qa.softwaretestingboard.tests.RegisterPageTest.userRegisterTest
+2025-01-31 17:47:44,991 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking com.qa.softwaretestingboard.tests.RegisterPageTest.userRegisterTest
+2025-01-31 17:47:58,958 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking com.qa.softwaretestingboard.tests.RegisterPageTest.userRegisterTest
+2025-01-31 17:48:12,893 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking @AfterTest BaseTest.tearDown()[pri:0, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@41c204a0]
+2025-01-31 17:48:16,804 INFO org.testng.log4testng.Logger [main] [[Utils]] Attempting to create C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\Softwaretestingboard App Test Regression Suite\Register Page Test - chrome.xml
+2025-01-31 17:48:16,805 INFO org.testng.log4testng.Logger [main] [[Utils]]   Directory C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\Softwaretestingboard App Test Regression Suite exists: true
+2025-01-31 17:48:16,806 INFO org.testng.log4testng.Logger [main] Creating C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\Softwaretestingboard App Test Regression Suite\Register Page Test - chrome.xml
+2025-01-31 17:48:16,810 INFO org.testng.log4testng.Logger [main] [TestRunner] Running test Register Page Test - firefox on 1  classes,  included groups:[] excluded groups:[]
+2025-01-31 17:48:16,811 INFO org.testng.log4testng.Logger [main] ===== Test class
+com.qa.softwaretestingboard.tests.RegisterPageTest
+2025-01-31 17:48:16,811 INFO org.testng.log4testng.Logger [main]   @BeforeClass RegisterPageTest.regSetup()[pri:0, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@6093d508]
+2025-01-31 17:48:16,811 INFO org.testng.log4testng.Logger [main]     @Test RegisterPageTest.verifyRegisterPageNavigationTest()[pri:1, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@6093d508]
+2025-01-31 17:48:16,811 INFO org.testng.log4testng.Logger [main]     @Test RegisterPageTest.userRegisterTest(java.lang.String,java.lang.String,java.lang.String)[pri:2147483647, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@6093d508]
+2025-01-31 17:48:16,811 INFO org.testng.log4testng.Logger [main] ======
+2025-01-31 17:48:16,814 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking @BeforeTest BaseTest.setup(java.lang.String)[pri:0, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@6093d508]
+2025-01-31 17:48:26,151 INFO org.testng.log4testng.Logger [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2025-01-31 17:48:26,154 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking @BeforeClass RegisterPageTest.regSetup()[pri:0, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@6093d508]
+2025-01-31 17:48:28,367 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking com.qa.softwaretestingboard.tests.RegisterPageTest.verifyRegisterPageNavigationTest
+2025-01-31 17:48:30,601 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking com.qa.softwaretestingboard.tests.RegisterPageTest.userRegisterTest
+2025-01-31 17:48:44,355 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking com.qa.softwaretestingboard.tests.RegisterPageTest.userRegisterTest
+2025-01-31 17:48:57,930 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking com.qa.softwaretestingboard.tests.RegisterPageTest.userRegisterTest
+2025-01-31 17:49:11,558 INFO org.testng.log4testng.Logger [main] [Invoker 164757726] Invoking @AfterTest BaseTest.tearDown()[pri:0, instance:com.qa.softwaretestingboard.tests.RegisterPageTest@6093d508]
+2025-01-31 17:49:15,405 INFO org.testng.log4testng.Logger [main] [[Utils]] Attempting to create C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\Softwaretestingboard App Test Regression Suite\Register Page Test - firefox.xml
+2025-01-31 17:49:15,406 INFO org.testng.log4testng.Logger [main] [[Utils]]   Directory C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\Softwaretestingboard App Test Regression Suite exists: true
+2025-01-31 17:49:15,407 INFO org.testng.log4testng.Logger [main] Creating C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\Softwaretestingboard App Test Regression Suite\Register Page Test - firefox.xml
+2025-01-31 17:49:15,541 INFO org.testng.log4testng.Logger [main] [TestNG] Time taken by org.testng.reporters.jq.Main@39374689: 117 ms
+2025-01-31 17:49:15,543 INFO org.testng.log4testng.Logger [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@2e204155: 2 ms
+2025-01-31 17:49:15,594 INFO org.testng.log4testng.Logger [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@7fac18dc: 51 ms
+2025-01-31 17:49:15,616 INFO org.testng.log4testng.Logger [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6cf047cf: 20 ms
+2025-01-31 17:49:15,622 INFO org.testng.log4testng.Logger [main] [[Utils]] Attempting to create C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\junitreports\TEST-com.qa.softwaretestingboard.tests.LoginPageTest.xml
+2025-01-31 17:49:15,623 INFO org.testng.log4testng.Logger [main] [[Utils]]   Directory C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\junitreports exists: true
+2025-01-31 17:49:15,623 INFO org.testng.log4testng.Logger [main] Creating C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\junitreports\TEST-com.qa.softwaretestingboard.tests.LoginPageTest.xml
+2025-01-31 17:49:15,628 INFO org.testng.log4testng.Logger [main] [[Utils]] Attempting to create C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\junitreports\TEST-com.qa.softwaretestingboard.tests.RegisterPageTest.xml
+2025-01-31 17:49:15,628 INFO org.testng.log4testng.Logger [main] [[Utils]]   Directory C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\junitreports exists: true
+2025-01-31 17:49:15,629 INFO org.testng.log4testng.Logger [main] Creating C:\Users\Soumya\eclipse-workspace\magentocodetest\test-output\junitreports\TEST-com.qa.softwaretestingboard.tests.RegisterPageTest.xml
+2025-01-31 17:49:15,630 INFO org.testng.log4testng.Logger [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@135e49b2: 14 ms
+2025-01-31 17:49:15,631 INFO org.testng.log4testng.Logger [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@5bb97fe7: 0 ms
